@@ -1,6 +1,5 @@
 # Marching Cubes 3d
 
-## Introduction
 This is a Python3 project that implements the marching cubes algorithm for isosurface extraction.
 
 ![Marching Cubes Visualization](/images/sample-1.png)
